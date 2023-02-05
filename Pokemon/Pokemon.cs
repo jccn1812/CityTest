@@ -6,6 +6,10 @@ using System;
 
 namespace Pokemon
 {
+    /// <summary>
+    /// PokemonC Class: Allow API Pokemon consume
+    /// </summary>
+
     public class PokemonC
     {
         /// <summary>

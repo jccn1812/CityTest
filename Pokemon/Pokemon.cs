@@ -65,7 +65,7 @@ namespace Pokemon
 
         /// <summary>
         /// Private void method to get Pokemon description from Characteristics endpoint.
-        /// 
+        /// Extraño...la propiedad Id devuelta de la API Pokemon, no es llave para el endpoint characteristic
         /// </summary>
         private void GetDescription(int IdPokemon)
         {
